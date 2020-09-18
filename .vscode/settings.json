@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"**/src/components/*.js": "javascriptreact"
+	},
+	"prettier.arrowParens": "avoid",
+	"prettier.printWidth": 150,
+	"prettier.jsxSingleQuote": true,
+	"prettier.tabWidth": 4,
+	"prettier.htmlWhitespaceSensitivity": "ignore",
+	"editor.wordWrapColumn": 150
+}

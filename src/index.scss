@@ -1,0 +1,23 @@
+// Base
+@import 'styles/base/global';
+
+@import '~codyhouse-framework/main/assets/css/base';
+@import 'styles/custom-style/colors';
+@import 'styles/custom-style/spacing';
+@import 'styles/custom-style/shared-styles';
+@import 'styles/custom-style/typography';
+@import 'styles/custom-style/icons';
+@import 'styles/custom-style/buttons';
+@import 'styles/custom-style/forms';
+@import 'styles/custom-style/util';
+
+// Components
+@import 'styles/components/1_banner';
+@import 'styles/components/1_card-v10';
+@import 'styles/components/1_header';
+@import 'styles/components/1_hero';
+@import 'styles/components/1_immersive-section-transition';
+@import 'styles/components/1_list';
+@import 'styles/components/1_main-footer';
+@import 'styles/components/1_smooth-scrolling';
+@import 'styles/components/1_stacking-cards';
