@@ -28,7 +28,7 @@ function ImmersiveSection() {
 				{/*  your content here */}
 				<div className='container max-width-adaptive-md'>
 					<div className='text-component line-height-lg v-space-md'>
-						<h3 className='text-left'>Web Services for Personal and Small Business Sites</h3>
+						<h3 className='text-center'>Web Services for Personal and Small Business Sites</h3>
 						<p>Blue Collar Coding is a freelance website offering web services for personal and small business sites.</p>
 						<p>
 							I started Blue Collar coding in 2018 after seeing that small businesses need better optimized websites without having to

@@ -17,7 +17,7 @@ function Services() {
 			id: 1,
 			title: 'Web Application Development',
 			description:
-				'Do you need a a simple web application to handle your business logic? Blue Collar Coding can build you a simple web application using React, Node, and Express..',
+				'Do you need a web application to handle your technical solutions? Blue Collar Coding can build you a simple web application using React, Node, and Express..',
 			image: appThumbnail,
 		},
 		{
