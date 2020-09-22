@@ -5,7 +5,7 @@ import Banner from './Banner';
 function StackCards() {
 	useEffect(() => {
 		let frontEnd = document.createElement('script');
-		frontEnd.src = '../static/_1_stacking-cards.js';
+		frontEnd.src = '/static/_1_stacking-cards.js';
 		frontEnd.id = 'stacking-card-js';
 		document.body.appendChild(frontEnd);
 	}, []);
