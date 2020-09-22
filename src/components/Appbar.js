@@ -4,12 +4,12 @@ import logo from '../images/bcc-logo-horizontal-e1535033175916.png';
 function Appbar() {
 	useEffect(() => {
 		let frontEnd = document.createElement('script');
-		frontEnd.src = '/static/_1_header.js';
+		frontEnd.src = '/blue-collar-coding/static/_1_header.js';
 		frontEnd.id = 'header-js';
 		document.body.appendChild(frontEnd);
 
 		let smoothScroll = document.createElement('script');
-		smoothScroll.src = '/static/_1_smooth-scrolling.js';
+		smoothScroll.src = '/blue-collar-coding/static/_1_smooth-scrolling.js';
 		smoothScroll.id = 'smooth-scroll-js';
 		document.body.appendChild(smoothScroll);
 	}, []);

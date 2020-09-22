@@ -4,7 +4,7 @@ import image from '../images/blue-collar-coder.jpg';
 function ImmersiveSection() {
 	useEffect(() => {
 		let frontEnd = document.createElement('script');
-		frontEnd.src = '/static/_1_immersive-section-transition.js';
+		frontEnd.src = '/blue-collar-coding/static/_1_immersive-section-transition.js';
 		frontEnd.id = 'immersive-section-transition-js';
 		document.body.appendChild(frontEnd);
 	}, []);
