@@ -9,7 +9,7 @@ function Appbar() {
 		document.body.appendChild(frontEnd);
 
 		let smoothScroll = document.createElement('script');
-		smoothScroll.src = '/blue-collar-coding/static/_1_smooth-scrolling.js';
+		smoothScroll.src = '/blue-collar-coding/static/js/_1_smooth-scrolling.js';
 		smoothScroll.id = 'smooth-scroll-js';
 		document.body.appendChild(smoothScroll);
 	}, []);
