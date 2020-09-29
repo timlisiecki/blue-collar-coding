@@ -2,7 +2,7 @@
 	"name": "blue-collar-coding",
 	"version": "1.0.0",
 	"private": true,
-	"homepage": "https://timlisiecki.github.io/",
+	"homepage": "https://timlisiecki.github.io/blue-collar-coding",
 	"dependencies": {
 		"@testing-library/jest-dom": "^4.2.4",
 		"@testing-library/react": "^9.5.0",
