@@ -17,7 +17,7 @@ function Rates() {
 					<div className='text-component v-space-md height-100% flex flex-column padding-md padding-lg@md'>
 						<h2 className='text-center'>Contact</h2>
 						<p className='margin-top-sm margin-top-xxs@md'>Have any questions or comments?</p>
-						<a href='#0' className='btn btn--primary text-uppercase letter-spacing-md'>
+						<a href='mailto:info@bluecollarcoding.com' className='btn btn--primary text-uppercase letter-spacing-md'>
 							Contact
 						</a>
 					</div>
